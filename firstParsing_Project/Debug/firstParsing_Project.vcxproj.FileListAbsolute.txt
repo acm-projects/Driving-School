@@ -1,0 +1,2 @@
+C:\Users\cris1\Driving-School\firstParsing_Project\Debug\firstParsing_Project.exe
+C:\Users\cris1\Driving-School\firstParsing_Project\Debug\firstParsing_Project.pdb
