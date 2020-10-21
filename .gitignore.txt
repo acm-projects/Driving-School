@@ -1,0 +1,6 @@
+Saved/Autosaves/
+
+Saved/Logs/
+
+Intermediate/Build/
+
