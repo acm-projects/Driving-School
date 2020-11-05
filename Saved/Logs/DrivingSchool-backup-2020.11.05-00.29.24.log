@@ -1,0 +1,1983 @@
+﻿Log file open, 11/04/20 17:54:45
+LogInit: Display: Running engine for game: DrivingSchool
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.165216
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin StreetMap
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Engine.ini]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Engine.ini]
+[2020.11.04-23.54.45:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Engine.ini]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Engine.ini]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.04-23.54.45:461][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.04-23.54.45:462][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Engine.ini]
+[2020.11.04-23.54.45:462][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Engine.ini]
+[2020.11.04-23.54.45:466][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.04-23.54.45:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.04-23.54.45:467][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.04-23.54.45:467][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.04-23.54.45:467][  0]LogHAL: Display: Platform has ~ 12 GB [12628512768 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.04-23.54.45:467][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.04-23.54.45:467][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.04-23.54.45:467][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Scalability.ini]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.04-23.54.45:468][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/cris1/Driving-School/Saved/Config/Windows/Engine.ini]
+[2020.11.04-23.54.45:468][  0]LogInit: Computer: DESKTOP-GTGQTO5
+[2020.11.04-23.54.45:468][  0]LogInit: User: cris1
+[2020.11.04-23.54.45:468][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.04-23.54.45:468][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.04-23.54.45:468][  0]LogMemory: Memory total: Physical=11.8GB (12GB approx)
+[2020.11.04-23.54.45:468][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.04-23.54.45:468][  0]LogMemory: Process Physical Memory: 114.69 MB used, 114.69 MB peak
+[2020.11.04-23.54.45:468][  0]LogMemory: Process Virtual Memory: 96.09 MB used, 96.09 MB peak
+[2020.11.04-23.54.45:468][  0]LogMemory: Physical Memory: 5554.72 MB used,  6488.77 MB free, 12043.49 MB total
+[2020.11.04-23.54.45:468][  0]LogMemory: Virtual Memory: 5144.97 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.11.04-23.54.45:472][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.04-23.54.45:500][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.04-23.54.45:503][  0]LogInit: Using OS detected language (en-US).
+[2020.11.04-23.54.45:503][  0]LogInit: Using OS detected locale (en-US).
+[2020.11.04-23.54.45:508][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.04-23.54.45:655][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.04-23.54.45:700][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.04-23.54.45:700][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.04-23.54.45:830][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.04-23.54.45:830][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.04-23.54.45:830][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.04-23.54.45:830][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.04-23.54.45:907][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2020.11.04-23.54.45:907][  0]LogD3D11RHI:       128/0/6021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2020.11.04-23.54.45:909][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.04-23.54.45:909][  0]LogD3D11RHI:       0/0/6021 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.04-23.54.45:909][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.04-23.54.45:914][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.04-23.54.45:915][  0]LogD3D11RHI:     GPU DeviceId: 0x9b41 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.04-23.54.45:915][  0]LogWindows: EnumDisplayDevices:
+[2020.11.04-23.54.45:915][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2020.11.04-23.54.45:915][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:1)
+[2020.11.04-23.54.45:915][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2020.11.04-23.54.45:915][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.11.04-23.54.45:915][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics
+[2020.11.04-23.54.45:915][  0]LogD3D11RHI:   Driver Version: 26.20.100.7926 (internal:26.20.100.7926, unified:26.20.100.7926)
+[2020.11.04-23.54.45:915][  0]LogD3D11RHI:      Driver Date: 2-25-2020
+[2020.11.04-23.54.45:915][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.11.04-23.54.46:020][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.11.04-23.54.46:021][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2020.11.04-23.54.46:021][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.04-23.54.46:021][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.04-23.54.46:026][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.11.04-23.54.46:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.04-23.54.46:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.04-23.54.46:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.04-23.54.46:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.04-23.54.46:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.04-23.54.46:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.04-23.54.46:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.04-23.54.46:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.04-23.54.46:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.04-23.54.46:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.04-23.54.46:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.04-23.54.46:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.04-23.54.46:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.04-23.54.46:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.04-23.54.46:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.04-23.54.46:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.04-23.54.46:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.04-23.54.46:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.04-23.54.46:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.04-23.54.46:356][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.04-23.54.46:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.04-23.54.46:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.04-23.54.46:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.04-23.54.46:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.04-23.54.46:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.04-23.54.46:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.04-23.54.46:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.04-23.54.46:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.04-23.54.46:422][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.04-23.54.46:429][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.04-23.54.46:482][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../Users/cris1/Driving-School/Intermediate/Shaders/WorkingDirectory/28604/).
+[2020.11.04-23.54.46:482][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/cris1/AppData/Local/Temp/UnrealShaderWorkingDir/43625B644B566A47C5318E9DBE51C0AD/'.
+[2020.11.04-23.54.46:482][  0]LogXGEController: Cleaning working directory: C:/Users/cris1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.04-23.54.46:482][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.04-23.54.46:482][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.04-23.54.46:482][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.04-23.54.47:114][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.04-23.54.47:159][  0]LogDerivedDataCache: Loaded boot cache 0.04s 76MB C:/Users/cris1/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.04-23.54.47:159][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/cris1/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.04-23.54.47:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/cris1/Driving-School/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.04-23.54.47:159][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.04-23.54.47:159][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/cris1/Driving-School/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.04-23.54.47:159][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.04-23.54.47:168][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.04-23.54.47:168][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.04-23.54.47:168][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.04-23.54.47:169][  0]LogDerivedDataCache: Using Local data cache path C:/Users/cris1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.04-23.54.47:169][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.04-23.54.47:169][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.04-23.54.47:210][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.04-23.54.47:211][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.04-23.54.47:234][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2020.11.04-23.54.47:424][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.04-23.54.47:515][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.04-23.54.47:515][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.04-23.54.47:515][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.04-23.54.47:515][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.04-23.54.47:515][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.04-23.54.47:528][  0]LogNetVersion: DrivingSchool 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 571546087)
+[2020.11.04-23.54.47:881][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000187716A0380), frame # 0
+[2020.11.04-23.54.47:882][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187715DD080), frame # 0
+[2020.11.04-23.54.47:882][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018771639E00), frame # 0
+[2020.11.04-23.54.47:951][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.063719 seconds
+[2020.11.04-23.54.47:955][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.04-23.54.47:955][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.04-23.54.47:955][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.04-23.54.48:252][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.04-23.54.48:256][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.04-23.54.48:349][  0]SourceControl: Source control is disabled
+[2020.11.04-23.54.48:349][  0]SourceControl: Source control is disabled
+[2020.11.04-23.54.48:352][  0]SourceControl: Source control is disabled
+[2020.11.04-23.54.48:354][  0]SourceControl: Source control is disabled
+[2020.11.04-23.54.48:361][  0]SourceControl: Source control is disabled
+[2020.11.04-23.54.48:584][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.04-23.54.48:602][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.04-23.54.48:602][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.04-23.54.48:652][  0]LogOcInput: OculusInput pre-init called
+[2020.11.04-23.54.48:662][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.04-23.54.48:662][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.04-23.54.48:732][  0]LogClass: Warning: FStreetMapVertex::Position is not initialized properly
+[2020.11.04-23.54.48:732][  0]LogClass: Warning: FStreetMapVertex::TextureCoordinate is not initialized properly
+[2020.11.04-23.54.48:732][  0]LogClass: Warning: FStreetMapVertex::TangentX is not initialized properly
+[2020.11.04-23.54.48:732][  0]LogClass: Warning: FStreetMapVertex::TangentZ is not initialized properly
+[2020.11.04-23.54.48:732][  0]LogClass: Warning: FStreetMapVertex::Color is not initialized properly
+[2020.11.04-23.54.48:732][  0]LogClass: Display: 5 Uninitialized script stuct members found
+[2020.11.04-23.54.48:732][  0]LogAutomationTest: Warning: FStreetMapVertex::Position is not initialized properly
+[2020.11.04-23.54.48:732][  0]LogAutomationTest: Warning: FStreetMapVertex::TextureCoordinate is not initialized properly
+[2020.11.04-23.54.48:732][  0]LogAutomationTest: Warning: FStreetMapVertex::TangentX is not initialized properly
+[2020.11.04-23.54.48:732][  0]LogAutomationTest: Warning: FStreetMapVertex::TangentZ is not initialized properly
+[2020.11.04-23.54.48:732][  0]LogAutomationTest: Warning: FStreetMapVertex::Color is not initialized properly
+[2020.11.04-23.54.48:733][  0]LogEngine: Initializing Engine...
+[2020.11.04-23.54.48:734][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.04-23.54.48:734][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.04-23.54.48:735][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.04-23.54.48:836][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.04-23.54.48:845][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.04-23.54.48:845][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000018773AC8800), frame # 0
+[2020.11.04-23.54.48:845][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018773A83B00), frame # 0
+[2020.11.04-23.54.48:869][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-23.54.48:869][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-23.54.48:869][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-23.54.48:869][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-23.54.48:869][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-23.54.48:869][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-23.54.48:869][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-23.54.48:869][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-23.54.48:869][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-23.54.48:869][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-23.54.48:884][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-23.54.48:884][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-23.54.49:594][  0]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.04-23.54.49:597][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-23.54.49:599][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-23.54.49:599][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-23.54.49:599][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-23.54.49:600][  0]LogInit: FAudioDevice initialized.
+[2020.11.04-23.54.49:600][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.04-23.54.49:655][  0]LogDerivedDataCache: Saved boot cache 0.05s 76MB C:/Users/cris1/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.04-23.54.49:659][  0]LogInit: Texture streaming: Enabled
+[2020.11.04-23.54.49:675][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.04-23.54.49:675][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.04-23.54.49:678][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.04-23.54.49:727][  0]LogInit: Transaction tracking system initialized
+[2020.11.04-23.54.49:745][  0]BlueprintLog: New page: Editor Load
+[2020.11.04-23.54.49:806][  0]LocalizationService: Localization service is disabled
+[2020.11.04-23.54.49:936][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.04-23.54.49:936][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.04-23.54.50:057][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cris1/Driving-School/Content/' took 0.01s
+[2020.11.04-23.54.50:267][  0]SourceControl: Source control is disabled
+[2020.11.04-23.54.50:267][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.166
+[2020.11.04-23.54.50:267][  0]Cmd: MAP LOAD FILE="../../../../../../Users/cris1/Driving-School/Content/VehicleAdvBP/Maps/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.04-23.54.50:267][  0]LightingResults: New page: Lighting Build
+[2020.11.04-23.54.50:268][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-23.54.50:268][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-23.54.50:268][  0]MapCheck: New page: Map Check
+[2020.11.04-23.54.50:268][  0]LightingResults: New page: Lighting Build
+[2020.11.04-23.54.50:276][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018773AC8800), frame # 0
+[2020.11.04-23.54.50:276][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018773A83B00), frame # 0
+[2020.11.04-23.54.50:276][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.04-23.54.51:132][  0]LogStaticMesh: Building static mesh map_buildings...
+[2020.11.04-23.54.53:134][  0]LogStaticMesh: Built static mesh [2.00s] /Game/Meshes/map_buildings.map_buildings
+[2020.11.04-23.54.53:255][  0]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.04-23.54.53:255][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001870A4A5000), frame # 0
+[2020.11.04-23.54.53:255][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001870A497B00), frame # 0
+[2020.11.04-23.54.53:412][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.04-23.54.53:450][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.04-23.54.53:453][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.04-23.54.53:454][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.234ms to complete.
+[2020.11.04-23.54.53:454][  0]LogFileHelpers: Loading map 'Main_Menu' took 3.187
+[2020.11.04-23.54.53:455][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.354
+[2020.11.04-23.54.53:585][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-23.54.53:593][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-23.54.53:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-23.54.53:605][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-23.54.53:612][  0]LogCollectionManager: Loaded 0 collections in 0.001275 seconds
+[2020.11.04-23.54.53:625][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cris1/Driving-School/Saved/Collections/' took 0.00s
+[2020.11.04-23.54.53:625][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cris1/Driving-School/Content/Developers/cris1/Collections/' took 0.00s
+[2020.11.04-23.54.53:625][  0]LogFileCache: Scanning file cache for directory 'C:/Users/cris1/Driving-School/Content/Collections/' took 0.00s
+[2020.11.04-23.54.53:625][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3435 classes and 829 folders.
+[2020.11.04-23.54.53:627][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.04-23.54.53:673][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.04-23.54.53:674][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.11.04-23.54.53:718][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.04-23.54.53:720][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.04-23.54.53:724][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.04-23.54.53:795][  0]LogRenderer: Reallocating scene render targets to support 1064x572 Format 10 NumSamples 1 (Frame:1).
+[2020.11.04-23.54.53:886][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.04-23.54.53:948][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.11.04-23.54.53:948][  0]LogLoad: (Engine Initialization) Total time: 9.85 seconds
+[2020.11.04-23.54.53:948][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.04-23.54.53:961][  0]LogRawInputWindows: Warning: Found device 31 devices
+[2020.11.04-23.54.53:962][  0]LogRawInputWindows: Warning: Found device 31 devices
+[2020.11.04-23.54.53:962][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.11.04-23.54.53:962][  0]LogRawInputWindows: Warning: Found device 31 devices
+[2020.11.04-23.54.53:962][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2020.11.04-23.54.53:993][  0]LogAssetRegistry: Asset discovery search completed in 6.7591 seconds
+[2020.11.04-23.54.53:998][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.11.04-23.54.54:014][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.04-23.54.54:069][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/cris1/Driving-School/Content/' took 0.10s
+[2020.11.04-23.54.54:348][  3]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.11.04-23.54.54:423][  4]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.11.04-23.54.54:423][  4]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.11.04-23.54.54:423][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.11.04-23.54.54:423][  4]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.04-23.54.54:517][  4]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.11.04-23.54.54:747][  6]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.11.04-23.54.54:905][  8]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.11.04-23.54.55:449][ 10]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2020.11.04-23.54.56:075][ 11]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2020.11.04-23.55.04:515][135]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 170
+[2020.11.04-23.55.09:136][179]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 160
+[2020.11.04-23.55.09:642][187]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 150
+[2020.11.04-23.55.10:471][201]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 140
+[2020.11.04-23.55.16:760][309]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 130
+[2020.11.04-23.55.20:959][394]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 120
+[2020.11.04-23.55.21:932][407]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 110
+[2020.11.04-23.55.21:973][408]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 100
+[2020.11.04-23.55.27:582][493]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 90
+[2020.11.04-23.55.29:647][534]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 80
+[2020.11.04-23.55.30:970][561]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 70
+[2020.11.04-23.55.31:950][581]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2020.11.04-23.55.41:297][766]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2020.11.04-23.55.41:688][774]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2020.11.04-23.55.42:671][793]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.11.04-23.55.45:838][857]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.11.04-23.55.51:225][960]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.11.04-23.55.53:130][992]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.11.04-23.55.54:305][ 11]LogEditorViewport: Clicking on Actor (LMB): VehicleBlueprint_C (VehicleBlueprint)
+[2020.11.04-23.55.54:363][ 11]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.11.04-23.55.54:857][ 15]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.11.04-23.55.56:344][ 32]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.11.04-23.55.56:825][ 38]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.11.04-23.55.57:188][ 42]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.11.04-23.56.30:236][307]LogSlate: Took 0.001356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.04-23.56.30:340][307]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/VehicleAdv/Vehicle/VehiclePhysicsAsset.VehiclePhysicsAsset
+[2020.11.04-23.56.30:459][307]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0022 seconds. Added 8 classes and 3 folders.
+[2020.11.04-23.56.30:480][307]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0018 seconds. Added 1 classes and 2 folders.
+[2020.11.04-23.56.32:006][307]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.11.04-23.56.32:049][307]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0019 seconds. Added 1 classes and 0 folders.
+[2020.11.04-23.56.34:638][307]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.04-23.56.34:838][307]LogRenderer: Reallocating scene render targets to support 1144x884 Format 10 NumSamples 1 (Frame:1).
+[2020.11.04-23.56.43:548][377]LogSlate: Window 'VehiclePhysicsAsset' being destroyed
+[2020.11.04-23.56.43:652][377]LogSlate: Window 'VehiclePhysicsAsset' being destroyed
+[2020.11.04-23.56.43:657][377]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-23.56.43:658][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-23.57.08:884][711]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.04-23.57.08:935][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.04-23.57.08:936][711]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 11:57:08 AM)
+[2020.11.04-23.57.08:938][711]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.04-23.57.08:940][711]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.04-23.57.08:940][711]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.04-23.57.10:536][711]LogPlayLevel: PIE: StaticDuplicateObject took: (1.595678s)
+[2020.11.04-23.57.10:537][711]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.04-23.57.10:537][711]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001872C91FA00), frame # 1711
+[2020.11.04-23.57.10:537][711]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000018735D63D80), frame # 1711
+[2020.11.04-23.57.10:537][711]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2020.11.04-23.57.10:537][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (1.597127s)
+[2020.11.04-23.57.10:549][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.11.04-23.57.10:551][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.04-23.57.10:552][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.04-23.57.10:552][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.04-23.57.10:552][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.04-23.57.10:552][711]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.04-23.57.10:552][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.04-23.57.10:552][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.04-23.57.10:552][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.04-23.57.10:552][711]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.04-23.57.10:552][711]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.04-23.57.10:555][711]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.04-23.57.10:555][711]LogAudioMixer: Display: 1: FrontRight
+[2020.11.04-23.57.10:575][711]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.04-23.57.10:575][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.04-23.57.10:575][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.04-23.57.10:575][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.04-23.57.10:576][711]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.04-23.57.10:591][711]LogInit: FAudioDevice initialized.
+[2020.11.04-23.57.10:602][711]LogLoad: Game class is 'GameModeBase'
+[2020.11.04-23.57.10:792][711]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-17.57.10
+[2020.11.04-23.57.10:792][711]LogWorld: Bringing up level for play took: 0.185774
+[2020.11.04-23.57.10:792][711]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.11.04-23.57.10:795][711]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.11.04-23.57.10:796][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-23.57.10:798][711]PIE: Server logged in
+[2020.11.04-23.57.10:799][711]PIE: Play in editor total start time 1.868 seconds.
+[2020.11.04-23.57.12:301][754]LogNet: Browse: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.04-23.57.12:301][754]LogLoad: LoadMap: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.04-23.57.12:301][754]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.04-23.57.12:303][754]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-23.57.12:304][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-23.57.12:354][754]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001872C91FA00), frame # 1754
+[2020.11.04-23.57.12:354][754]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000018735D63D80), frame # 1754
+[2020.11.04-23.57.12:356][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.11.04-23.57.12:795][754]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.11.04-23.57.12:795][754]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187A4723000), frame # 1754
+[2020.11.04-23.57.12:796][754]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001870A04D940), frame # 1754
+[2020.11.04-23.57.12:796][754]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.11.04-23.57.12:827][754]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.11.04-17.57.12
+[2020.11.04-23.57.12:828][754]LogWorld: Bringing up level for play took: 0.028115
+[2020.11.04-23.57.12:829][754]LogLoad: Took 0.526936 seconds to LoadMap(/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap)
+[2020.11.04-23.57.17:571][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-23.57.17:571][861]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.11.04-23.57.17:572][861]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.04-23.57.17:584][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-23.57.17:635][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.04-23.57.17:639][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.04-23.57.17:698][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.04-23.57.17:911][861]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187A4723000), frame # 1861
+[2020.11.04-23.57.17:911][861]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001870A04D940), frame # 1861
+[2020.11.04-23.57.17:913][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.11.04-23.57.17:985][862]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.11.04-23.57.23:415][982]LogEditorViewport: Clicking on Actor (LMB): VehicleBlueprint_C (VehicleBlueprint)
+[2020.11.04-23.57.42:665][140]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.11.04-23.57.43:519][140]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2020.11.04-23.57.44:788][141]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.04-23.58.29:527][497]LogRenderer: Reallocating scene render targets to support 1144x900 Format 10 NumSamples 1 (Frame:1).
+[2020.11.05-00.05.39:001][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.11.05-00.05.44:671][ 37]LogSavePackage: Moving '../../../../../../Users/cris1/Driving-School/Saved/Main_Menu_Auto1922BCA764E26563901C3A891553CBA77.tmp' to '../../../../../../Users/cris1/Driving-School/Saved/Autosaves/Game/VehicleAdvBP/Maps/Main_Menu_Auto1.umap'
+[2020.11.05-00.05.44:700][ 37]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/Main_Menu' took 5.736
+[2020.11.05-00.05.44:700][ 37]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.736
+[2020.11.05-00.05.44:701][ 37]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint] ([1] browsable assets)...
+[2020.11.05-00.05.44:749][ 37]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint]
+[2020.11.05-00.05.44:749][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint]
+[2020.11.05-00.05.44:813][ 37]LogSavePackage: Moving '../../../../../../Users/cris1/Driving-School/Saved/VehicleBlueprint_Auto1403E039945A20233AFFF3E9161162A64.tmp' to '../../../../../../Users/cris1/Driving-School/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto1.uasset'
+[2020.11.05-00.05.44:814][ 37]LogFileHelpers: Auto-saving content packages took 0.114
+[2020.11.05-00.07.18:576][882]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.11.05-00.07.18:797][882]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.11.05-00.07.22:287][927]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-00.07.22:349][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-00.07.22:349][927]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 12:07:22 PM)
+[2020.11.05-00.07.22:350][927]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.07.23:789][927]LogPlayLevel: PIE: StaticDuplicateObject took: (1.438890s)
+[2020.11.05-00.07.23:790][927]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.05-00.07.23:790][927]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187F1399A00), frame # 5927
+[2020.11.05-00.07.23:790][927]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187F16F4400), frame # 5927
+[2020.11.05-00.07.23:790][927]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2020.11.05-00.07.23:790][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (1.440187s)
+[2020.11.05-00.07.23:812][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.11.05-00.07.23:813][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-00.07.23:813][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-00.07.23:813][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-00.07.23:813][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-00.07.23:813][927]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-00.07.23:813][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-00.07.23:813][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-00.07.23:813][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-00.07.23:814][927]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-00.07.23:814][927]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-00.07.23:816][927]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-00.07.23:816][927]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-00.07.23:833][927]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.05-00.07.23:833][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-00.07.23:833][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-00.07.23:833][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-00.07.23:833][927]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-00.07.23:846][927]LogInit: FAudioDevice initialized.
+[2020.11.05-00.07.23:864][927]LogLoad: Game class is 'GameModeBase'
+[2020.11.05-00.07.24:033][927]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-18.07.24
+[2020.11.05-00.07.24:033][927]LogWorld: Bringing up level for play took: 0.167516
+[2020.11.05-00.07.24:033][927]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.11.05-00.07.24:035][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.07.24:037][927]PIE: Server logged in
+[2020.11.05-00.07.24:038][927]PIE: Play in editor total start time 1.695 seconds.
+[2020.11.05-00.07.35:780][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.07.35:780][206]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.07.35:782][206]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.07.35:783][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.07.35:810][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-00.07.35:815][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.07.35:876][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.07.35:879][206]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187F16F4400), frame # 6206
+[2020.11.05-00.07.35:879][206]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187F1399A00), frame # 6206
+[2020.11.05-00.07.35:884][206]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.11.05-00.07.35:959][207]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.11.05-00.07.38:974][265]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-00.07.38:999][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-00.07.38:999][265]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 12:07:38 PM)
+[2020.11.05-00.07.38:999][265]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.07.40:158][265]LogPlayLevel: PIE: StaticDuplicateObject took: (1.159270s)
+[2020.11.05-00.07.40:159][265]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.05-00.07.40:159][265]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187F1C77E00), frame # 6265
+[2020.11.05-00.07.40:159][265]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187EC6DDD00), frame # 6265
+[2020.11.05-00.07.40:159][265]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2020.11.05-00.07.40:159][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (1.160363s)
+[2020.11.05-00.07.40:179][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.11.05-00.07.40:180][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-00.07.40:180][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-00.07.40:180][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-00.07.40:180][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-00.07.40:180][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-00.07.40:180][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-00.07.40:180][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-00.07.40:180][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-00.07.40:180][265]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-00.07.40:180][265]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-00.07.40:183][265]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-00.07.40:183][265]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-00.07.40:197][265]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.05-00.07.40:198][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-00.07.40:198][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-00.07.40:198][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-00.07.40:198][265]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-00.07.40:211][265]LogInit: FAudioDevice initialized.
+[2020.11.05-00.07.40:216][265]LogLoad: Game class is 'GameModeBase'
+[2020.11.05-00.07.40:372][265]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-18.07.40
+[2020.11.05-00.07.40:372][265]LogWorld: Bringing up level for play took: 0.152896
+[2020.11.05-00.07.40:372][265]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.11.05-00.07.40:373][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.07.40:380][265]PIE: Server logged in
+[2020.11.05-00.07.40:381][265]PIE: Play in editor total start time 1.385 seconds.
+[2020.11.05-00.07.42:052][312]LogNet: Browse: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.07.42:052][312]LogLoad: LoadMap: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.07.42:052][312]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.07.42:054][312]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.07.42:055][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.07.42:122][312]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187EC6DDD00), frame # 6312
+[2020.11.05-00.07.42:122][312]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187F1C77E00), frame # 6312
+[2020.11.05-00.07.42:125][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.11.05-00.07.42:459][312]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.11.05-00.07.42:459][312]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001870B10FE00), frame # 6312
+[2020.11.05-00.07.42:459][312]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187ED020E00), frame # 6312
+[2020.11.05-00.07.42:459][312]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.11.05-00.07.42:489][312]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.11.04-18.07.42
+[2020.11.05-00.07.42:490][312]LogWorld: Bringing up level for play took: 0.026582
+[2020.11.05-00.07.42:491][312]LogLoad: Took 0.438215 seconds to LoadMap(/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap)
+[2020.11.05-00.07.59:457][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.07.59:457][733]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.11.05-00.07.59:458][733]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.07.59:466][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.07.59:500][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-00.07.59:507][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.07.59:583][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.07.59:793][733]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001870B10FE00), frame # 6733
+[2020.11.05-00.07.59:793][733]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187ED020E00), frame # 6733
+[2020.11.05-00.07.59:796][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.11.05-00.07.59:852][734]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.11.05-00.11.49:889][ 32]LogSlate: Window 'Color Picker' being destroyed
+[2020.11.05-00.13.47:026][913]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.11.05-00.13.47:159][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.11.05-00.13.52:938][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-00.13.53:000][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-00.13.53:000][ 23]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 12:13:53 PM)
+[2020.11.05-00.13.53:000][ 23]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.13.54:327][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (1.326072s)
+[2020.11.05-00.13.54:328][ 23]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.05-00.13.54:328][ 23]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187E0640200), frame # 11023
+[2020.11.05-00.13.54:328][ 23]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187AD953880), frame # 11023
+[2020.11.05-00.13.54:328][ 23]LogPlayLevel: PIE: World Init took: (0.001531s)
+[2020.11.05-00.13.54:328][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (1.327798s)
+[2020.11.05-00.13.54:351][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.11.05-00.13.54:352][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-00.13.54:352][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-00.13.54:352][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-00.13.54:352][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-00.13.54:352][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-00.13.54:352][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-00.13.54:352][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-00.13.54:352][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-00.13.54:353][ 23]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-00.13.54:353][ 23]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-00.13.54:355][ 23]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-00.13.54:355][ 23]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-00.13.54:383][ 23]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.05-00.13.54:383][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-00.13.54:383][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-00.13.54:383][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-00.13.54:383][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-00.13.54:396][ 23]LogInit: FAudioDevice initialized.
+[2020.11.05-00.13.54:405][ 23]LogLoad: Game class is 'GameModeBase'
+[2020.11.05-00.13.54:565][ 23]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-18.13.54
+[2020.11.05-00.13.54:565][ 23]LogWorld: Bringing up level for play took: 0.156661
+[2020.11.05-00.13.54:565][ 23]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.11.05-00.13.54:567][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.13.54:569][ 23]PIE: Server logged in
+[2020.11.05-00.13.54:570][ 23]PIE: Play in editor total start time 1.574 seconds.
+[2020.11.05-00.13.55:742][ 56]LogNet: Browse: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.13.55:742][ 56]LogLoad: LoadMap: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.13.55:742][ 56]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.13.55:743][ 56]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.13.55:745][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.13.55:812][ 56]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187AD953880), frame # 11056
+[2020.11.05-00.13.55:812][ 56]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187E0640200), frame # 11056
+[2020.11.05-00.13.55:817][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.11.05-00.13.56:169][ 56]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.11.05-00.13.56:169][ 56]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187AD743E00), frame # 11056
+[2020.11.05-00.13.56:169][ 56]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187E0CED300), frame # 11056
+[2020.11.05-00.13.56:169][ 56]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.11.05-00.13.56:201][ 56]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.11.04-18.13.56
+[2020.11.05-00.13.56:201][ 56]LogWorld: Bringing up level for play took: 0.027595
+[2020.11.05-00.13.56:202][ 56]LogLoad: Took 0.459764 seconds to LoadMap(/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap)
+[2020.11.05-00.14.21:700][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.14.21:700][373]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.11.05-00.14.21:702][373]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.14.21:734][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.14.21:947][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-00.14.21:965][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.14.22:276][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.14.22:610][373]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187E0CED300), frame # 11373
+[2020.11.05-00.14.22:611][373]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187AD743E00), frame # 11373
+[2020.11.05-00.14.22:649][373]LogUObjectHash: Compacting FUObjectHashTables data took  16.69ms
+[2020.11.05-00.14.22:916][374]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.11.05-00.14.58:780][193]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.11.05-00.14.58:894][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.11.05-00.15.03:158][280]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-00.15.03:194][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-00.15.03:194][280]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 12:15:03 PM)
+[2020.11.05-00.15.03:194][280]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.15.04:561][280]LogPlayLevel: PIE: StaticDuplicateObject took: (1.367676s)
+[2020.11.05-00.15.04:562][280]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.05-00.15.04:562][280]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187AEDBA200), frame # 12280
+[2020.11.05-00.15.04:563][280]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001880C654680), frame # 12280
+[2020.11.05-00.15.04:563][280]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2020.11.05-00.15.04:563][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (1.369025s)
+[2020.11.05-00.15.04:585][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.11.05-00.15.04:586][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-00.15.04:586][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-00.15.04:586][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-00.15.04:586][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-00.15.04:586][280]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-00.15.04:586][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-00.15.04:586][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-00.15.04:586][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-00.15.04:587][280]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-00.15.04:587][280]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-00.15.04:589][280]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-00.15.04:589][280]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-00.15.04:606][280]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.05-00.15.04:606][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-00.15.04:606][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-00.15.04:606][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-00.15.04:606][280]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-00.15.04:619][280]LogInit: FAudioDevice initialized.
+[2020.11.05-00.15.04:631][280]LogLoad: Game class is 'GameModeBase'
+[2020.11.05-00.15.04:796][280]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-18.15.04
+[2020.11.05-00.15.04:797][280]LogWorld: Bringing up level for play took: 0.161287
+[2020.11.05-00.15.04:797][280]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.11.05-00.15.04:799][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.15.04:801][280]PIE: Server logged in
+[2020.11.05-00.15.04:802][280]PIE: Play in editor total start time 1.612 seconds.
+[2020.11.05-00.15.05:725][307]LogNet: Browse: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.15.05:725][307]LogLoad: LoadMap: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.15.05:725][307]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.15.05:726][307]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.15.05:727][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.15.05:804][307]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001880C654680), frame # 12307
+[2020.11.05-00.15.05:804][307]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187AEDBA200), frame # 12307
+[2020.11.05-00.15.05:810][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.11.05-00.15.06:196][307]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.11.05-00.15.06:196][307]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187FB69A600), frame # 12307
+[2020.11.05-00.15.06:196][307]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001880C654180), frame # 12307
+[2020.11.05-00.15.06:197][307]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.11.05-00.15.06:227][307]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.11.04-18.15.06
+[2020.11.05-00.15.06:228][307]LogWorld: Bringing up level for play took: 0.026886
+[2020.11.05-00.15.06:229][307]LogLoad: Took 0.504481 seconds to LoadMap(/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap)
+[2020.11.05-00.15.22:498][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.15.22:498][709]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.11.05-00.15.22:499][709]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.15.22:513][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.15.22:563][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-00.15.22:570][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.15.22:666][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.15.22:704][709]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001880C654180), frame # 12709
+[2020.11.05-00.15.22:704][709]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187FB69A600), frame # 12709
+[2020.11.05-00.15.22:714][709]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.11.05-00.15.22:773][710]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.11.05-00.18.03:882][636]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.11.05-00.18.04:033][636]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.11.05-00.18.07:081][698]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-00.18.07:117][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-00.18.07:117][698]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 12:18:07 PM)
+[2020.11.05-00.18.07:117][698]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.18.08:318][698]LogPlayLevel: PIE: StaticDuplicateObject took: (1.200578s)
+[2020.11.05-00.18.08:319][698]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.05-00.18.08:319][698]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187ECA4F800), frame # 14698
+[2020.11.05-00.18.08:319][698]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187C881D6C0), frame # 14698
+[2020.11.05-00.18.08:320][698]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2020.11.05-00.18.08:320][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (1.201811s)
+[2020.11.05-00.18.08:340][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.11.05-00.18.08:341][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-00.18.08:341][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-00.18.08:341][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-00.18.08:341][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-00.18.08:341][698]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-00.18.08:341][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-00.18.08:341][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-00.18.08:341][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-00.18.08:341][698]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-00.18.08:341][698]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-00.18.08:344][698]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-00.18.08:344][698]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-00.18.08:360][698]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.05-00.18.08:360][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-00.18.08:360][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-00.18.08:360][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-00.18.08:360][698]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-00.18.08:373][698]LogInit: FAudioDevice initialized.
+[2020.11.05-00.18.08:382][698]LogLoad: Game class is 'GameModeBase'
+[2020.11.05-00.18.08:538][698]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-18.18.08
+[2020.11.05-00.18.08:539][698]LogWorld: Bringing up level for play took: 0.153082
+[2020.11.05-00.18.08:539][698]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.11.05-00.18.08:541][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.18.08:543][698]PIE: Server logged in
+[2020.11.05-00.18.08:543][698]PIE: Play in editor total start time 1.43 seconds.
+[2020.11.05-00.18.10:353][751]LogNet: Browse: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.18.10:353][751]LogLoad: LoadMap: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.18.10:353][751]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.18.10:355][751]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.18.10:356][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.18.10:416][751]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187C881D6C0), frame # 14751
+[2020.11.05-00.18.10:416][751]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187ECA4F800), frame # 14751
+[2020.11.05-00.18.10:421][751]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.11.05-00.18.10:815][751]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.11.05-00.18.10:815][751]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187F5B54800), frame # 14751
+[2020.11.05-00.18.10:815][751]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187C8FE6340), frame # 14751
+[2020.11.05-00.18.10:816][751]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.11.05-00.18.10:848][751]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.11.04-18.18.10
+[2020.11.05-00.18.10:848][751]LogWorld: Bringing up level for play took: 0.028815
+[2020.11.05-00.18.10:850][751]LogLoad: Took 0.497213 seconds to LoadMap(/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap)
+[2020.11.05-00.18.23:888][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.18.23:888][ 76]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.11.05-00.18.23:890][ 76]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.18.23:899][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.18.23:926][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-00.18.23:933][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.18.24:030][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.18.24:069][ 76]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187C8FE6340), frame # 15076
+[2020.11.05-00.18.24:069][ 76]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187F5B54800), frame # 15076
+[2020.11.05-00.18.24:083][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2020.11.05-00.18.24:140][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.11.05-00.19.18:809][798]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.11.05-00.19.18:991][798]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.11.05-00.19.24:406][889]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-00.19.24:448][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-00.19.24:448][889]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 12:19:24 PM)
+[2020.11.05-00.19.24:449][889]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.19.25:827][889]LogPlayLevel: PIE: StaticDuplicateObject took: (1.378044s)
+[2020.11.05-00.19.25:828][889]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.05-00.19.25:828][889]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187EC7D4A00), frame # 15889
+[2020.11.05-00.19.25:828][889]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187F1EAEFC0), frame # 15889
+[2020.11.05-00.19.25:828][889]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2020.11.05-00.19.25:828][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (1.379264s)
+[2020.11.05-00.19.25:849][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.11.05-00.19.25:850][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-00.19.25:850][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-00.19.25:850][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-00.19.25:850][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-00.19.25:850][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-00.19.25:850][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-00.19.25:850][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-00.19.25:850][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-00.19.25:851][889]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-00.19.25:851][889]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-00.19.25:853][889]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-00.19.25:853][889]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-00.19.25:870][889]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.05-00.19.25:870][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-00.19.25:870][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-00.19.25:870][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-00.19.25:871][889]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-00.19.25:884][889]LogInit: FAudioDevice initialized.
+[2020.11.05-00.19.25:896][889]LogLoad: Game class is 'GameModeBase'
+[2020.11.05-00.19.26:057][889]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-18.19.26
+[2020.11.05-00.19.26:057][889]LogWorld: Bringing up level for play took: 0.159063
+[2020.11.05-00.19.26:057][889]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.11.05-00.19.26:059][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.19.26:061][889]PIE: Server logged in
+[2020.11.05-00.19.26:062][889]PIE: Play in editor total start time 1.618 seconds.
+[2020.11.05-00.19.27:450][930]LogNet: Browse: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.19.27:450][930]LogLoad: LoadMap: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.19.27:450][930]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.19.27:451][930]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.19.27:452][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.19.27:522][930]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187F1EAEFC0), frame # 15930
+[2020.11.05-00.19.27:522][930]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187EC7D4A00), frame # 15930
+[2020.11.05-00.19.27:527][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.11.05-00.19.27:925][930]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.11.05-00.19.27:925][930]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187EC327E00), frame # 15930
+[2020.11.05-00.19.27:925][930]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187C91CE480), frame # 15930
+[2020.11.05-00.19.27:925][930]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.11.05-00.19.27:956][930]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.11.04-18.19.27
+[2020.11.05-00.19.27:957][930]LogWorld: Bringing up level for play took: 0.027152
+[2020.11.05-00.19.27:958][930]LogLoad: Took 0.506818 seconds to LoadMap(/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap)
+[2020.11.05-00.19.34:209][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.19.34:209][ 78]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.11.05-00.19.34:210][ 78]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.19.34:220][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.19.34:266][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-00.19.34:273][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.19.34:371][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.19.34:621][ 78]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187C91CE480), frame # 16078
+[2020.11.05-00.19.34:621][ 78]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187EC327E00), frame # 16078
+[2020.11.05-00.19.34:626][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.11.05-00.19.34:691][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.11.05-00.19.49:424][257]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.11.05-00.19.49:600][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.11.05-00.19.53:686][317]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-00.19.53:727][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-00.19.53:727][317]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 12:19:53 PM)
+[2020.11.05-00.19.53:727][317]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.19.55:097][317]LogPlayLevel: PIE: StaticDuplicateObject took: (1.370386s)
+[2020.11.05-00.19.55:098][317]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.05-00.19.55:098][317]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187F1F0DE00), frame # 16317
+[2020.11.05-00.19.55:098][317]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001870AF8FEC0), frame # 16317
+[2020.11.05-00.19.55:098][317]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2020.11.05-00.19.55:098][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (1.371616s)
+[2020.11.05-00.19.55:120][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.11.05-00.19.55:121][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-00.19.55:121][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-00.19.55:121][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-00.19.55:121][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-00.19.55:121][317]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-00.19.55:121][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-00.19.55:121][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-00.19.55:121][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-00.19.55:121][317]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-00.19.55:121][317]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-00.19.55:124][317]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-00.19.55:124][317]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-00.19.55:139][317]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.05-00.19.55:139][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-00.19.55:139][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-00.19.55:139][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-00.19.55:140][317]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-00.19.55:153][317]LogInit: FAudioDevice initialized.
+[2020.11.05-00.19.55:164][317]LogLoad: Game class is 'GameModeBase'
+[2020.11.05-00.19.55:325][317]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-18.19.55
+[2020.11.05-00.19.55:325][317]LogWorld: Bringing up level for play took: 0.157833
+[2020.11.05-00.19.55:325][317]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.11.05-00.19.55:327][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.19.55:329][317]PIE: Server logged in
+[2020.11.05-00.19.55:330][317]PIE: Play in editor total start time 1.607 seconds.
+[2020.11.05-00.19.56:452][351]LogNet: Browse: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.19.56:453][351]LogLoad: LoadMap: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.19.56:453][351]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.19.56:454][351]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.19.56:455][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.19.56:522][351]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001870AF8FEC0), frame # 16351
+[2020.11.05-00.19.56:522][351]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187F1F0DE00), frame # 16351
+[2020.11.05-00.19.56:529][351]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.11.05-00.19.56:915][351]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.11.05-00.19.56:915][351]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187B40A9800), frame # 16351
+[2020.11.05-00.19.56:915][351]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187C91CE200), frame # 16351
+[2020.11.05-00.19.56:915][351]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.11.05-00.19.56:946][351]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.11.04-18.19.56
+[2020.11.05-00.19.56:947][351]LogWorld: Bringing up level for play took: 0.027954
+[2020.11.05-00.19.56:948][351]LogLoad: Took 0.495278 seconds to LoadMap(/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap)
+[2020.11.05-00.20.45:508][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.20.45:508][593]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.11.05-00.20.45:510][593]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.20.45:520][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.20.45:568][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-00.20.45:576][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.20.45:675][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.20.45:719][593]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187C91CE200), frame # 17593
+[2020.11.05-00.20.45:719][593]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187B40A9800), frame # 17593
+[2020.11.05-00.20.45:727][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.11.05-00.20.45:791][594]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.11.05-00.21.21:608][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.11.05-00.21.27:272][822]LogSavePackage: Moving '../../../../../../Users/cris1/Driving-School/Saved/Main_Menu_Auto2A835646946C24690977A04A5700B3BBF.tmp' to '../../../../../../Users/cris1/Driving-School/Saved/Autosaves/Game/VehicleAdvBP/Maps/Main_Menu_Auto2.umap'
+[2020.11.05-00.21.27:281][822]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleAdvBP/Maps/Main_Menu' took 5.707
+[2020.11.05-00.21.27:281][822]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.707
+[2020.11.05-00.21.27:281][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint] ([1] browsable assets)...
+[2020.11.05-00.21.27:307][822]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint]
+[2020.11.05-00.21.27:307][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleAdvBP/Blueprints/VehicleBlueprint]
+[2020.11.05-00.21.27:369][822]LogSavePackage: Moving '../../../../../../Users/cris1/Driving-School/Saved/VehicleBlueprint_Auto2BA07D2104D002CC8A6866D80149978CE.tmp' to '../../../../../../Users/cris1/Driving-School/Saved/Autosaves/Game/VehicleAdvBP/Blueprints/VehicleBlueprint_Auto2.uasset'
+[2020.11.05-00.21.27:370][822]LogFileHelpers: Auto-saving content packages took 0.089
+[2020.11.05-00.21.48:472][ 53]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.11.05-00.21.48:621][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.11.05-00.21.51:565][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-00.21.51:605][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-00.21.51:605][ 99]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 12:21:51 PM)
+[2020.11.05-00.21.51:605][ 99]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.21.53:011][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (1.405599s)
+[2020.11.05-00.21.53:012][ 99]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.05-00.21.53:012][ 99]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187ECB9C200), frame # 18099
+[2020.11.05-00.21.53:012][ 99]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187EE767600), frame # 18099
+[2020.11.05-00.21.53:012][ 99]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2020.11.05-00.21.53:012][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (1.406903s)
+[2020.11.05-00.21.53:032][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.11.05-00.21.53:033][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-00.21.53:033][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-00.21.53:033][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-00.21.53:033][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-00.21.53:033][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-00.21.53:033][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-00.21.53:033][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-00.21.53:033][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-00.21.53:034][ 99]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-00.21.53:034][ 99]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-00.21.53:036][ 99]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-00.21.53:036][ 99]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-00.21.53:053][ 99]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.05-00.21.53:053][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-00.21.53:053][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-00.21.53:053][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-00.21.53:053][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-00.21.53:054][ 99]LogInit: FAudioDevice initialized.
+[2020.11.05-00.21.53:070][ 99]LogLoad: Game class is 'GameModeBase'
+[2020.11.05-00.21.53:231][ 99]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-18.21.53
+[2020.11.05-00.21.53:232][ 99]LogWorld: Bringing up level for play took: 0.157521
+[2020.11.05-00.21.53:232][ 99]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.11.05-00.21.53:234][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.21.53:236][ 99]PIE: Server logged in
+[2020.11.05-00.21.53:236][ 99]PIE: Play in editor total start time 1.636 seconds.
+[2020.11.05-00.21.54:242][130]LogNet: Browse: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.21.54:242][130]LogLoad: LoadMap: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.21.54:242][130]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.21.54:244][130]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.21.54:247][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.21.54:326][130]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187EE767600), frame # 18130
+[2020.11.05-00.21.54:326][130]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187ECB9C200), frame # 18130
+[2020.11.05-00.21.54:331][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.11.05-00.21.54:706][130]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.11.05-00.21.54:706][130]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187C87A6000), frame # 18130
+[2020.11.05-00.21.54:706][130]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187AD698E00), frame # 18130
+[2020.11.05-00.21.54:707][130]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.11.05-00.21.54:738][130]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.11.04-18.21.54
+[2020.11.05-00.21.54:739][130]LogWorld: Bringing up level for play took: 0.028380
+[2020.11.05-00.21.54:740][130]LogLoad: Took 0.497874 seconds to LoadMap(/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap)
+[2020.11.05-00.22.08:867][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.22.08:867][472]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.11.05-00.22.08:868][472]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.22.08:878][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.22.08:898][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-00.22.08:905][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.22.08:988][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.22.09:021][472]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187AD698E00), frame # 18472
+[2020.11.05-00.22.09:021][472]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187C87A6000), frame # 18472
+[2020.11.05-00.22.09:030][472]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.11.05-00.22.09:231][473]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.11.05-00.22.47:010][881]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.11.05-00.22.47:206][881]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.11.05-00.22.54:800][975]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-00.22.54:840][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-00.22.54:840][975]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 12:22:54 PM)
+[2020.11.05-00.22.54:840][975]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.22.56:126][975]LogPlayLevel: PIE: StaticDuplicateObject took: (1.285724s)
+[2020.11.05-00.22.56:126][975]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.05-00.22.56:126][975]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187A7120C00), frame # 18975
+[2020.11.05-00.22.56:127][975]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001870B083880), frame # 18975
+[2020.11.05-00.22.56:127][975]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2020.11.05-00.22.56:127][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (1.286888s)
+[2020.11.05-00.22.56:148][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.05-00.22.56:149][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-00.22.56:149][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-00.22.56:149][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-00.22.56:149][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-00.22.56:149][975]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-00.22.56:149][975]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-00.22.56:149][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-00.22.56:149][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-00.22.56:149][975]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-00.22.56:149][975]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-00.22.56:152][975]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-00.22.56:152][975]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-00.22.56:168][975]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.05-00.22.56:168][975]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-00.22.56:168][975]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-00.22.56:168][975]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-00.22.56:169][975]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-00.22.56:181][975]LogInit: FAudioDevice initialized.
+[2020.11.05-00.22.56:191][975]LogLoad: Game class is 'GameModeBase'
+[2020.11.05-00.22.56:355][975]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-18.22.56
+[2020.11.05-00.22.56:355][975]LogWorld: Bringing up level for play took: 0.160508
+[2020.11.05-00.22.56:355][975]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.11.05-00.22.56:357][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.22.56:359][975]PIE: Server logged in
+[2020.11.05-00.22.56:359][975]PIE: Play in editor total start time 1.523 seconds.
+[2020.11.05-00.22.58:651][ 45]LogNet: Browse: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.22.58:651][ 45]LogLoad: LoadMap: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.22.58:651][ 45]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.22.58:653][ 45]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.22.58:655][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.22.58:736][ 45]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001870B083880), frame # 19045
+[2020.11.05-00.22.58:736][ 45]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187A7120C00), frame # 19045
+[2020.11.05-00.22.58:741][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.11.05-00.22.59:176][ 45]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.11.05-00.22.59:177][ 45]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187AEEDE000), frame # 19045
+[2020.11.05-00.22.59:177][ 45]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001870B083240), frame # 19045
+[2020.11.05-00.22.59:177][ 45]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.11.05-00.22.59:209][ 45]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.11.04-18.22.59
+[2020.11.05-00.22.59:210][ 45]LogWorld: Bringing up level for play took: 0.029084
+[2020.11.05-00.22.59:211][ 45]LogLoad: Took 0.560155 seconds to LoadMap(/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap)
+[2020.11.05-00.23.20:869][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.23.20:870][585]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.11.05-00.23.20:870][585]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.23.20:883][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.23.20:921][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-00.23.20:928][585]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.23.21:024][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.23.21:064][585]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001870B083240), frame # 19585
+[2020.11.05-00.23.21:064][585]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187AEEDE000), frame # 19585
+[2020.11.05-00.23.21:076][585]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2020.11.05-00.23.21:282][586]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.11.05-00.23.39:365][803]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.11.05-00.23.39:513][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2020.11.05-00.23.45:353][881]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-00.23.45:394][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-00.23.45:394][881]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 12:23:45 PM)
+[2020.11.05-00.23.45:395][881]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.23.46:742][881]LogPlayLevel: PIE: StaticDuplicateObject took: (1.347275s)
+[2020.11.05-00.23.46:742][881]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.05-00.23.46:742][881]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187E0081A00), frame # 19881
+[2020.11.05-00.23.46:743][881]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187E078BB00), frame # 19881
+[2020.11.05-00.23.46:743][881]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2020.11.05-00.23.46:743][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (1.348459s)
+[2020.11.05-00.23.46:764][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.11.05-00.23.46:765][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-00.23.46:765][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-00.23.46:765][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-00.23.46:765][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-00.23.46:765][881]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-00.23.46:765][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-00.23.46:765][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-00.23.46:765][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-00.23.46:766][881]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-00.23.46:766][881]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-00.23.46:768][881]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-00.23.46:768][881]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-00.23.46:783][881]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.05-00.23.46:784][881]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-00.23.46:784][881]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-00.23.46:784][881]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-00.23.46:784][881]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-00.23.46:797][881]LogInit: FAudioDevice initialized.
+[2020.11.05-00.23.46:805][881]LogLoad: Game class is 'GameModeBase'
+[2020.11.05-00.23.46:967][881]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-18.23.46
+[2020.11.05-00.23.46:968][881]LogWorld: Bringing up level for play took: 0.159257
+[2020.11.05-00.23.46:968][881]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.11.05-00.23.46:970][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.23.46:972][881]PIE: Server logged in
+[2020.11.05-00.23.46:972][881]PIE: Play in editor total start time 1.583 seconds.
+[2020.11.05-00.23.48:332][923]LogNet: Browse: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.23.48:332][923]LogLoad: LoadMap: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.23.48:332][923]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.23.48:333][923]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.23.48:335][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.23.48:405][923]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187E078BB00), frame # 19923
+[2020.11.05-00.23.48:405][923]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187E0081A00), frame # 19923
+[2020.11.05-00.23.48:410][923]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.11.05-00.23.48:820][923]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.11.05-00.23.48:820][923]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187AF156400), frame # 19923
+[2020.11.05-00.23.48:820][923]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187C993F600), frame # 19923
+[2020.11.05-00.23.48:820][923]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.11.05-00.23.48:851][923]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.11.04-18.23.48
+[2020.11.05-00.23.48:852][923]LogWorld: Bringing up level for play took: 0.028246
+[2020.11.05-00.23.48:853][923]LogLoad: Took 0.521865 seconds to LoadMap(/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap)
+[2020.11.05-00.24.04:447][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.24.04:447][321]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.11.05-00.24.04:448][321]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.24.04:458][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.24.04:479][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-00.24.04:486][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.24.04:572][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.24.04:606][321]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187C993F600), frame # 20321
+[2020.11.05-00.24.04:606][321]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187AF156400), frame # 20321
+[2020.11.05-00.24.04:615][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.11.05-00.24.04:792][322]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.11.05-00.24.36:780][671]BlueprintLog: New page: Compile VehicleBlueprint
+[2020.11.05-00.24.36:887][671]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.11.05-00.24.39:290][707]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.05-00.24.39:320][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.05-00.24.39:320][707]PIE: New page: PIE session: Main_Menu (Nov 4, 2020, 12:24:39 PM)
+[2020.11.05-00.24.39:320][707]LogPlayLevel: Creating play world package: /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.24.40:288][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.968827s)
+[2020.11.05-00.24.40:289][707]LogAIModule: Creating AISystem for world Main_Menu
+[2020.11.05-00.24.40:289][707]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187F1E0FE00), frame # 20707
+[2020.11.05-00.24.40:289][707]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187F185D580), frame # 20707
+[2020.11.05-00.24.40:289][707]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2020.11.05-00.24.40:289][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu to /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu (0.969982s)
+[2020.11.05-00.24.40:311][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.11.05-00.24.40:312][707]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.05-00.24.40:312][707]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.05-00.24.40:312][707]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.05-00.24.40:312][707]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.05-00.24.40:312][707]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.05-00.24.40:312][707]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.05-00.24.40:312][707]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.05-00.24.40:312][707]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.05-00.24.40:312][707]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.05-00.24.40:312][707]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.05-00.24.40:315][707]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.05-00.24.40:315][707]LogAudioMixer: Display: 1: FrontRight
+[2020.11.05-00.24.40:330][707]LogAudioMixer: Display: Using Audio Device Speaker (Realtek(R) Audio)
+[2020.11.05-00.24.40:330][707]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.05-00.24.40:330][707]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.05-00.24.40:330][707]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.05-00.24.40:330][707]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.05-00.24.40:344][707]LogInit: FAudioDevice initialized.
+[2020.11.05-00.24.40:349][707]LogLoad: Game class is 'GameModeBase'
+[2020.11.05-00.24.40:510][707]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2020.11.04-18.24.40
+[2020.11.05-00.24.40:510][707]LogWorld: Bringing up level for play took: 0.156490
+[2020.11.05-00.24.40:510][707]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.11.05-00.24.40:512][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.24.40:514][707]PIE: Server logged in
+[2020.11.05-00.24.40:515][707]PIE: Play in editor total start time 1.198 seconds.
+[2020.11.05-00.24.41:884][744]LogNet: Browse: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.24.41:884][744]LogLoad: LoadMap: /Game/VehicleAdvBP/Maps/VehicleAdvExampleMap
+[2020.11.05-00.24.41:884][744]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_Main_Menu
+[2020.11.05-00.24.41:885][744]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.24.41:886][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.24.41:955][744]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187F185D580), frame # 20744
+[2020.11.05-00.24.41:955][744]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187F1E0FE00), frame # 20744
+[2020.11.05-00.24.41:959][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.11.05-00.24.42:250][744]LogAIModule: Creating AISystem for world VehicleAdvExampleMap
+[2020.11.05-00.24.42:250][744]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001880CB05A00), frame # 20744
+[2020.11.05-00.24.42:250][744]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187F185C900), frame # 20744
+[2020.11.05-00.24.42:251][744]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2020.11.05-00.24.42:274][744]LogWorld: Bringing World /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap.VehicleAdvExampleMap up for play (max tick rate 0) at 2020.11.04-18.24.42
+[2020.11.05-00.24.42:275][744]LogWorld: Bringing up level for play took: 0.021288
+[2020.11.05-00.24.42:276][744]LogLoad: Took 0.392032 seconds to LoadMap(/Game/VehicleAdvBP/Maps/VehicleAdvExampleMap)
+[2020.11.05-00.24.54:235][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.24.54:235][ 38]LogWorld: BeginTearingDown for /Game/VehicleAdvBP/Maps/UEDPIE_0_VehicleAdvExampleMap
+[2020.11.05-00.24.54:236][ 38]LogWorld: UWorld::CleanupWorld for VehicleAdvExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.24.54:241][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.24.54:279][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.05-00.24.54:285][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.24.54:347][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.05-00.24.54:372][ 38]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187F185C900), frame # 21038
+[2020.11.05-00.24.54:373][ 38]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001880CB05A00), frame # 21038
+[2020.11.05-00.24.54:378][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.11.05-00.24.54:409][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.11.05-00.25.05:078][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Blueprints/VehicleBlueprint" FILE="../../../../../../Users/cris1/Driving-School/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" SILENT=true
+[2020.11.05-00.25.05:169][209]LogSavePackage: Moving '../../../../../../Users/cris1/Driving-School/Saved/VehicleBlueprint11DCAF5244FC9B41A38307842C3792BA.tmp' to '../../../../../../Users/cris1/Driving-School/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset'
+[2020.11.05-00.25.05:197][209]AssetCheck: New page: Asset Save: VehicleBlueprint
+[2020.11.05-00.25.05:197][209]LogContentValidation: Display: Validating Blueprint /Game/VehicleAdvBP/Blueprints/VehicleBlueprint.VehicleBlueprint
+[2020.11.05-00.25.08:730][250]LogSlate: Window 'VehicleBlueprint' being destroyed
+[2020.11.05-00.25.08:778][250]LogSlate: Window 'VehicleBlueprint' being destroyed
+[2020.11.05-00.25.08:823][250]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.25.08:823][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.25.57:029][784]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/StarterContent/Blueprints/HUD/MM_HUD.MM_HUD
+[2020.11.05-00.26.05:315][932]LogSlate: Window 'MM_HUD' being destroyed
+[2020.11.05-00.26.05:362][932]LogSlate: Window 'MM_HUD' being destroyed
+[2020.11.05-00.26.05:372][932]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.26.05:372][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.26.05:411][932]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.26.05:411][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.26.15:265][174]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData
+[2020.11.05-00.26.17:286][216]LogSlate: Window 'StarterMap_BuiltData' being destroyed
+[2020.11.05-00.26.17:346][216]LogSlate: Window 'StarterMap_BuiltData' being destroyed
+[2020.11.05-00.26.20:729][298]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/StarterContent/Blueprints/HUD/MM_HUD.MM_HUD
+[2020.11.05-00.26.47:270][812]LogSlate: Window 'MM_HUD' being destroyed
+[2020.11.05-00.26.47:307][812]LogSlate: Window 'MM_HUD' being destroyed
+[2020.11.05-00.26.47:313][812]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.26.47:313][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.26.47:369][812]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.26.47:369][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.27.22:176][530]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdvBP/Blueprints/VehicleAdvHud.VehicleAdvHud
+[2020.11.05-00.28.05:957][994]LogSlate: Window 'VehicleAdvHud' being destroyed
+[2020.11.05-00.28.06:001][994]LogSlate: Window 'VehicleAdvHud' being destroyed
+[2020.11.05-00.28.06:052][994]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.28.06:052][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.28.07:880][ 24]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleAdvBP/Blueprints/VehicleAdvGameMode.VehicleAdvGameMode
+[2020.11.05-00.28.10:279][ 65]LogSlate: Window 'VehicleAdvGameMode' being destroyed
+[2020.11.05-00.28.10:333][ 65]LogSlate: Window 'VehicleAdvGameMode' being destroyed
+[2020.11.05-00.28.10:359][ 65]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.28.10:359][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.05-00.29.13:349][690]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2020.11.05-00.29.14:968][690]LogSlate: Window 'Save Content' being destroyed
+[2020.11.05-00.29.14:998][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/Main_Menu" FILE="../../../../../../Users/cris1/Driving-School/Content/VehicleAdvBP/Maps/Main_Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.11.05-00.29.15:046][690]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.11.05-00.29.20:154][690]LogSavePackage: Moving '../../../../../../Users/cris1/Driving-School/Saved/Main_Menu53A31C3B4B5128774C8622B58D413967.tmp' to '../../../../../../Users/cris1/Driving-School/Content/VehicleAdvBP/Maps/Main_Menu.umap'
+[2020.11.05-00.29.20:187][690]LogFileHelpers: Saving map 'Main_Menu' took 5.190
+[2020.11.05-00.29.20:187][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleAdvBP/Maps/Main_Menu_BuiltData" FILE="../../../../../../Users/cris1/Driving-School/Content/VehicleAdvBP/Maps/Main_Menu_BuiltData.uasset" SILENT=true
+[2020.11.05-00.29.21:000][690]LogSavePackage: Moving '../../../../../../Users/cris1/Driving-School/Saved/Main_Menu_BuiltData389581674E1EC7AE0578A4950D47966D.tmp' to '../../../../../../Users/cris1/Driving-School/Content/VehicleAdvBP/Maps/Main_Menu_BuiltData.uasset'
+[2020.11.05-00.29.21:105][690]LogSlate: Window 'DrivingSchool - Unreal Editor' being destroyed
+[2020.11.05-00.29.21:266][690]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.05-00.29.21:266][690]LogContentValidation: Display: Validating World /Game/VehicleAdvBP/Maps/Main_Menu.Main_Menu
+[2020.11.05-00.29.21:266][690]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VehicleAdvBP/Maps/Main_Menu_BuiltData.Main_Menu_BuiltData
+[2020.11.05-00.29.21:288][691]Cmd: QUIT_EDITOR
+[2020.11.05-00.29.21:288][691]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.11.05-00.29.21:299][691]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.11.05-00.29.22:139][691]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.05-00.29.22:149][691]LogExit: Preparing to exit.
+[2020.11.05-00.29.22:954][691]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.05-00.29.22:954][691]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.05-00.29.22:954][691]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.05-00.29.22:954][691]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.05-00.29.22:954][691]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.05-00.29.22:954][691]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.05-00.29.22:954][691]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.11.05-00.29.22:954][691]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.29.22:955][691]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.29.22:956][691]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.29.22:957][691]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.29.22:957][691]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.29.22:958][691]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.29.22:959][691]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.29.22:960][691]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.29.22:960][691]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.29.22:993][691]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.11.05-00.29.23:002][691]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.05-00.29.23:003][691]LogExit: Editor shut down
+[2020.11.05-00.29.23:003][691]LogExit: Transaction tracking system shut down
+[2020.11.05-00.29.23:162][691]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (00000187716A0380), frame # 27691
+[2020.11.05-00.29.23:162][691]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187715DD080), frame # 27691
+[2020.11.05-00.29.23:162][691]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000018771639E00), frame # 27691
+[2020.11.05-00.29.23:172][691]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001870A4A5000), frame # 27691
+[2020.11.05-00.29.23:172][691]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001870A497B00), frame # 27691
+[2020.11.05-00.29.23:238][691]LogExit: Object subsystem successfully closed.
+[2020.11.05-00.29.23:260][691]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module SequencerWidgets (810)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module BlueprintGraph (808)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (806)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module Voice (804)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module PinnedCommandList (802)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module SkeletonEditor (800)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (798)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (796)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module SceneOutliner (794)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module AddContentDialog (792)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module WidgetCarousel (791)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module EditorWidgets (788)
+[2020.11.05-00.29.23:289][691]LogModuleManager: Shutting down and abandoning module CollectionManager (786)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module StatsViewer (784)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (782)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module FoliageEdit (780)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module LandscapeEditor (778)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module MeshPaintMode (776)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (774)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module ActorPickerMode (772)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (770)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (768)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module AutomationWorker (766)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module SteamVREditor (764)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module OculusMR (762)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module GooglePADEditor (760)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (758)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (756)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (754)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (752)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (750)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (748)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (746)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (744)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (742)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module WebMMedia (740)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (738)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (736)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module SequenceRecorder (735)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (732)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (730)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (728)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (726)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (724)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (722)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (720)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (718)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (716)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (714)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module PlanarCut (712)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module CharacterAI (710)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module TextureAlignMode (708)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module BspMode (706)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module PlacementMode (705)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module GeometryMode (702)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (700)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module SmartSnapping (698)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module SessionServices (696)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module MeshPaint (694)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module ViewportSnapping (692)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module ViewportInteraction (690)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module ClothPainter (688)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (687)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module LogVisualizer (684)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module IntroTutorials (682)
+[2020.11.05-00.29.23:290][691]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (681)
+[2020.11.05-00.29.23:291][691]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (678)
+[2020.11.05-00.29.23:291][691]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (676)
+[2020.11.05-00.29.23:291][691]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (674)
+[2020.11.05-00.29.23:291][691]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (673)
+[2020.11.05-00.29.24:090][691]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (670)
+[2020.11.05-00.29.24:090][691]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (668)
+[2020.11.05-00.29.24:090][691]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (666)
+[2020.11.05-00.29.24:090][691]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (664)
+[2020.11.05-00.29.24:090][691]LogModuleManager: Shutting down and abandoning module TraceInsights (662)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module TraceServices (661)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (658)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (656)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module InputBindingEditor (654)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module MergeActors (652)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (650)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module LocalizationService (649)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module HardwareTargeting (646)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (644)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module UndoHistory (642)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module XmlParser (640)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module Blutility (638)
+[2020.11.05-00.29.24:091][691]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (636)
+[2020.11.05-00.29.24:092][691]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (635)
+[2020.11.05-00.29.24:092][691]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (632)
+[2020.11.05-00.29.24:092][691]LogModuleManager: Shutting down and abandoning module SettingsEditor (630)
+[2020.11.05-00.29.24:092][691]LogModuleManager: Shutting down and abandoning module ProjectLauncher (628)
+[2020.11.05-00.29.24:092][691]LogModuleManager: Shutting down and abandoning module SessionFrontend (626)
+[2020.11.05-00.29.24:092][691]LogModuleManager: Shutting down and abandoning module ProfilerClient (624)
+[2020.11.05-00.29.24:092][691]LogModuleManager: Shutting down and abandoning module DeviceManager (622)
+[2020.11.05-00.29.24:093][691]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (621)
+[2020.11.05-00.29.24:124][691]LogModuleManager: Shutting down and abandoning module AutomationController (618)
+[2020.11.05-00.29.24:124][691]LogModuleManager: Shutting down and abandoning module AutomationWindow (616)
+[2020.11.05-00.29.24:124][691]LogModuleManager: Shutting down and abandoning module Layers (614)
+[2020.11.05-00.29.24:124][691]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (612)
+[2020.11.05-00.29.24:124][691]LogModuleManager: Shutting down and abandoning module DetailCustomizations (610)
+[2020.11.05-00.29.24:124][691]LogModuleManager: Shutting down and abandoning module PackagesDialog (608)
+[2020.11.05-00.29.24:124][691]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (606)
+[2020.11.05-00.29.24:124][691]LogModuleManager: Shutting down and abandoning module Persona (604)
+[2020.11.05-00.29.24:124][691]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (603)
+[2020.11.05-00.29.24:124][691]LogModuleManager: Shutting down and abandoning module AnimGraph (601)
+[2020.11.05-00.29.24:124][691]LogModuleManager: Shutting down and abandoning module Kismet (598)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module KismetWidgets (597)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module GraphEditor (594)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module StructViewer (592)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module ClassViewer (590)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module Toolbox (588)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module ModuleUI (586)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module OutputLog (584)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module GammaUI (582)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module Documentation (580)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module LiveCoding (578)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module LevelSequence (576)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (574)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module MovieScene (572)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (570)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module LauncherPlatform (568)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module AnalyticsET (566)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module PortalServices (564)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module PortalRpc (562)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module MessagingRpc (560)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (558)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module AudioMixerCore (557)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module AIModule (554)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module GameplayDebugger (553)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module AITestSuite (551)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module NavigationSystem (549)
+[2020.11.05-00.29.24:129][691]LogModuleManager: Shutting down and abandoning module ProfilerService (546)
+[2020.11.05-00.29.24:339][691]LogModuleManager: Shutting down and abandoning module TaskGraph (544)
+[2020.11.05-00.29.24:339][691]LogModuleManager: Shutting down and abandoning module StreetMapImporting (542)
+[2020.11.05-00.29.24:339][691]LogModuleManager: Shutting down and abandoning module StreetMapRuntime (540)
+[2020.11.05-00.29.24:339][691]LogModuleManager: Shutting down and abandoning module ScreenshotTools (538)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module SynthesisEditor (536)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module Synthesis (534)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (532)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (530)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module OculusEditor (528)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module OculusInput (526)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (524)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module GooglePAD (522)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module EditableMesh (520)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (518)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module CableComponent (516)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module AudioCapture (514)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (513)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module AssetTags (510)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (508)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (506)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module AppleImageUtils (504)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module AndroidPermission (502)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (500)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (498)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module TemplateSequence (496)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (494)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (492)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (490)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (488)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (487)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (484)
+[2020.11.05-00.29.24:340][691]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (482)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module MediaCompositing (480)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module ImgMedia (478)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (476)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (474)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module RawInput (464)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.11.05-00.29.24:341][691]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.11.05-00.29.24:342][691]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.11.05-00.29.24:343][691]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.11.05-00.29.24:444][691]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.11.05-00.29.24:545][691]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.11.05-00.29.24:545][691]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.11.05-00.29.24:545][691]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.11.05-00.29.24:545][691]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.11.05-00.29.24:545][691]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.11.05-00.29.24:545][691]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.11.05-00.29.24:545][691]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.11.05-00.29.24:545][691]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.11.05-00.29.24:545][691]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.11.05-00.29.24:545][691]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.11.05-00.29.24:545][691]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.11.05-00.29.24:545][691]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.11.05-00.29.24:546][691]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.11.05-00.29.24:546][691]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.11.05-00.29.24:546][691]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.11.05-00.29.24:546][691]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.11.05-00.29.24:546][691]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.11.05-00.29.24:546][691]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.11.05-00.29.24:546][691]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.11.05-00.29.24:546][691]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.11.05-00.29.24:547][691]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.11.05-00.29.24:547][691]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.11.05-00.29.24:547][691]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.11.05-00.29.24:547][691]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.11.05-00.29.24:547][691]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.11.05-00.29.24:547][691]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.11.05-00.29.24:548][691]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.11.05-00.29.24:548][691]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.11.05-00.29.24:548][691]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.11.05-00.29.24:548][691]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.11.05-00.29.24:548][691]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.11.05-00.29.24:548][691]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.11.05-00.29.24:548][691]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.11.05-00.29.24:548][691]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.11.05-00.29.24:548][691]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.11.05-00.29.24:548][691]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.11.05-00.29.24:551][691]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.11.05-00.29.24:552][691]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.11.05-00.29.24:553][691]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.11.05-00.29.24:554][691]LogXGEController: Cleaning working directory: C:/Users/cris1/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.11.05-00.29.24:554][691]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.11.05-00.29.24:555][691]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.11.05-00.29.24:556][691]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.11.05-00.29.24:556][691]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.11.05-00.29.24:556][691]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.11.05-00.29.24:556][691]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.11.05-00.29.24:556][691]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.11.05-00.29.24:556][691]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.11.05-00.29.24:556][691]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.11.05-00.29.24:556][691]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.11.05-00.29.24:556][691]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.11.05-00.29.24:557][691]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.11.05-00.29.24:562][691]LogHMD: Freeing OpenVRDLLHandle.
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.11.05-00.29.24:562][691]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.11.05-00.29.24:563][691]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.11.05-00.29.24:563][691]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.11.05-00.29.24:589][691]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.11.05-00.29.24:589][691]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.11.05-00.29.24:589][691]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9BDDE07A-4C30-E256-EE28-5CA3063CADAE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=caf4782340871ddc50b0898a9ad28950%7Ca100de1417ba4e209307289d2e625de6%7C383bcaf6-24cb-4f44-9ec8-7ea4e768c90e&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.11.05-00.29.24:619][691]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.11.05-00.29.24:621][691]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.11.05-00.29.24:622][691]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.11.05-00.29.24:623][691]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.11.05-00.29.24:624][691]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.11.05-00.29.24:624][691]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.11.05-00.29.24:624][691]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.11.05-00.29.24:624][691]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.11.05-00.29.24:624][691]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.11.05-00.29.24:624][691]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.11.05-00.29.24:624][691]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.11.05-00.29.24:624][691]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.11.05-00.29.24:625][691]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.11.05-00.29.24:625][691]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.11.05-00.29.24:625][691]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.11.05-00.29.24:625][691]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.11.05-00.29.24:625][691]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.11.05-00.29.24:625][691]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.11.05-00.29.24:625][691]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.11.05-00.29.24:625][691]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.11.05-00.29.24:626][691]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.11.05-00.29.24:626][691]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.11.05-00.29.24:629][691]LogD3D11RHI: Shutdown
+[2020.11.05-00.29.24:629][691]LogD3D11RHI: CleanupD3DDevice
+[2020.11.05-00.29.24:653][691]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2020.11.05-00.29.24:660][691]LogExit: Exiting.
+[2020.11.05-00.29.24:683][691]Log file closed, 11/04/20 18:29:24

@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\cris1\\Driving-School\\Plugins\\StreetMap\\Source\\StreetMapImporting\\StreetMapImporting.Build.cs",
+		"C:\\Users\\cris1\\Driving-School\\Plugins\\StreetMap\\Source\\StreetMapRuntime\\StreetMapRuntime.Build.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
