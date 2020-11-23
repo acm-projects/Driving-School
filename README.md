@@ -1,5 +1,5 @@
 # iDrive
-*iDrive* is a 3D first-person driving game intended to help student drivers familiarize themselves with the rules of the road and specific areas they might be driving. Users can drive through automatically generated 3D areas based on real-world locations.
+*iDrive* is a 3D first-person driving simulator intended to help student drivers familiarize themselves with the rules of the road and specific areas they might be driving. Users can drive through automatically generated 3D areas based on real-world locations.
 
 In addition to the real-world-location-based environment, *iDrive* also includes road etiquette features such as turn signals, head lights and break lights. In the future, users who fail to respect these rules could face in-game penalties.
 
